@@ -1,0 +1,30 @@
+.main {
+ width: 100%;
+ height: 100%;
+ padding: 10px;
+}
+
+.error{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  color: red;
+}
+
+.noData{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.forecastWeather{
+  padding: 0px;
+  margin-bottom: 15px;
+}
+
+.forecastHour{
+  padding: 0px;
+  margin-bottom: 15px;
+}
