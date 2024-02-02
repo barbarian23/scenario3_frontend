@@ -57,7 +57,7 @@ const rows = [
   createData('Brazil', 'BR', 210147125, 8515767),
 ];
 
-export default function Main() {
+export default function ContentSaved() {
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(10);
 

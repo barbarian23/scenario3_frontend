@@ -58,7 +58,7 @@ function MyApp({ Component, pageProps }) {
                 </Link>
               </ListItem>
               <ListItem disablePadding>
-                <Link href="/forecast">
+                <Link href="/contentSaved">
                   <ListItemButton>
                     <ListItemIcon>
                       <DraftsIcon />
@@ -70,7 +70,7 @@ function MyApp({ Component, pageProps }) {
                 </Link>
               </ListItem>
               <ListItem disablePadding>
-                <Link href="/forecast">
+                <Link href="/newContent">
                   <ListItemButton>
                     <ListItemIcon>
                       <DraftsIcon />
